@@ -6,14 +6,14 @@ Below is CodeLift's curriculum for an introductory front-end web development cla
 
 | Lesson        | Topic | 
 | ------------- |-------------|
-| **0**   | [**Get Ready to Code!**](/codeliftproject/tree/master/0-introduction/) | 
+| **0**   | [**Get Ready to Code!**](https://github.com/codeliftproject/curriculum/tree/master/0-introduction) | 
 | 0.1 | Prework |  
 | 0.2 | Why Programming? |
 | 0.3 | How do web apps work? | 
 | 0.4 | What will you build? | 
 | 0.5 | Tools of the Trade: Text Editors    |  
 | 0.6 | Evaluation    |   
-| **1**   | [**Introduction to HTML**](/codeliftproject/tree/master/1-html/) | 
+| **1**   | [**Introduction to HTML**](https://github.com/codeliftproject/curriculum/tree/master/1-html) | 
 | 1.1 | Hello World! | 
 | 1.2 | What is HTML? | 
 | 1.3 | HTML document structure | 
@@ -21,14 +21,14 @@ Below is CodeLift's curriculum for an introductory front-end web development cla
 | 1.5 | Blocks and inline elements    |   
 | 1.6 | Putting it all together    |   
 | 1.7 | Evaluation   |   
-| **2**   | [**Introduction to CSS**](/codeliftproject/tree/master/2-cssintro/) | 
+| **2**   | [**Introduction to CSS**](https://github.com/codeliftproject/curriculum/tree/master/2-cssintro) | 
 | 2.1 | What is CSS? | 
 | 2.2 | CSS Selectors| 
 | 2.3 | Connecting CSS to HTML   |  
 | 2.4 | Putting it all together  |   
 | 2.5 | Tools of the Trade: Command Line Basics  |   
 | 2.6 | Evaluation   |  
-| **3**   | [**Tools of the Trade: Version Control**](/codeliftproject/tree/master/3-versioncontrol/) |
+| **3**   | [**Tools of the Trade: Version Control**](https://github.com/codeliftproject/curriculum/tree/master/3-versioncontrol) |
 | 3.1 | What is Version Control, and why use it? | 
 | 3.2 | What is Git, what is Github?| 
 | 3.3 | Github setup    |  
