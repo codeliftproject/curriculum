@@ -1,9 +1,7 @@
 CodeLift Foundations Curriculum
 ==========
 
-Below is CodeLift's curriculum for an introductory front-end web development class for students who are complete beginners.
-
-As they learn, students should reflect on their progress toward these metrics: [Learning Objectives Rubric](https://docs.google.com/document/d/1D9Gx6llUoxCbqAAZYlCDfVFZdRS6Qx920xdv118l0Uk/edit?usp=sharing)
+Below is CodeLift's curriculum for an introductory front-end web development class for students who are complete beginners. As they learn, students will make progress toward these metrics: [Learning Objectives Rubric](https://docs.google.com/document/d/1D9Gx6llUoxCbqAAZYlCDfVFZdRS6Qx920xdv118l0Uk/edit?usp=sharing)
 
 
 | Lesson        | Topic | 
