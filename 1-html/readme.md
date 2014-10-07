@@ -49,6 +49,7 @@ The first thing you see when viewing a page’s html, is the “doctype html” 
 
 + Read: [1.5 Blocks & Inline Elements](https://docs.google.com/presentation/d/1frnnQyqDEWR0-igj9BImZl-khTKwt42Qwa6Wn7v5QLs/edit?usp=sharing) (CodeLift)
 + Exercise: [Block vs Inline](https://docs.google.com/document/d/1KUJ5KOjMtKaApj41CsKT-qePfv3JNDiAk0pDA55Qkro/edit?usp=sharing) (CodeLift)
++ Read: [Learn to Code HTML & CSS: Identifying Divisions & Spans](http://learn.shayhowe.com/html-css/getting-to-know-html/#divs-and-spans)
 + **Key Takeaway:** HTML elements can be block or inline by default. Block and inline elements present themselves differently in the browser.
 
 <a id="16-semantic-html">1.6: Semantic HTML</a>
@@ -56,6 +57,7 @@ The first thing you see when viewing a page’s html, is the “doctype html” 
 
 + Read: A List Apart's ["A Preview of HTML 5: Structure"](http://alistapart.com/article/previewofhtml5#section2) (You can stop when you get to the h2 header "Video and audio".)
 + Do: Look closely at the images in the reading. How are the semantic elements being used?
++ Read: [Semantic Code: What? Why? How?](http://boagworld.com/dev/semantic-code-what-why-how/)
 + **Key Takeaway:** HTML5 has introduced semantic tags that can add explicit structure to a page.
 
 <a id="17-putting-it-all-together">1.7: Putting It All Together</a>
