@@ -16,8 +16,9 @@
 <a id="prework">0.1: Prework</a>
 ---------------------
 
-+ Verify you computer has a modern web browser. We recommend the latest version of Chrome or Firefox
-+ Install a text editor. We recommend Sublime Text
++ Verify you computer has a modern web browser. We *highly* recommend using the latest version of Chrome or Firefox
++ **Do:** Install a text editor. We recommend [Sublime Text](http://www.sublimetext.com/)
++ **Do:** Decide on a note-taking/journaling format. You are going to be learning a lot of information, and you will need a place to store it. You can use a physical notebook, a Google doc, Evernote. Do what works for you, but make sure you have a place to store your notes, questions, and reflections
 
 <a id="whyprogramming">0.2: Why Programming?</a>
 -----------------------
@@ -35,15 +36,16 @@
 -----------------------------
 
 + Read: [What will you build?](https://docs.google.com/presentation/d/1ciV5iUNyFe1EYvASq3VSm9PnKCe01EPnQIceTqgcoTo/edit?usp=sharing) (CodeLift)
++ **Exercise:** [What will you build?](https://docs.google.com/document/d/14X7nE7GHL5JJFpuuB8hdJSwOgZzAPKcumTnWisu9uEk/edit?usp=sharing)
 + **Key Takeaway:** There are numerous web programming languages, and deciding which one to learn is complicated. However, HTML, CSS and Javascript are the foundation of most websites and are beneficial for every programmer, regardless of her specialty. 
 
 <a id="texteditors">0.5: Tools of the Trade: Text Editors</a>
 ---------------------------------------
 
-+ Do: Download a text editor. We recommend Sublime Text
++ **Do:** Install a text editor. We recommend [Sublime Text](http://www.sublimetext.com/)
 + **Key Takeaway:** The entirety of the internet is basically text files held in convenient locations and written in languages that computers understand. Text editors allow us to write/edit these files!
 
 <a id="eval">0.6: Evaluation</a>
 ---------------------------------------
 
-+ Do: Complete this survey and tell us what you thought of this unit, and how it can be improved. 
++ **Exercise:** Complete [this short survey](https://docs.google.com/forms/d/1ieaYd4ceiemiNazmClOWiHVlnyt3WqTPZLPFeD23QRE/viewform) and tell us what you thought of this unit, and how it can be improved. 
