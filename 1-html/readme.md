@@ -72,4 +72,4 @@ The first thing you see when viewing a page’s html, is the “doctype html” 
 <a id="18-evaluation">1.8: Evaluation</a>
 ---------------------------------------
 
-+ Do: Complete this survey and tell us what you thought of this unit, and how it can be improved.
++ **Do:** Complete [this survey](https://docs.google.com/forms/d/1Bjey9gh2Xup04GTnF3CKxnlASHIj9kiEIZ7utZTimoU/viewform) and tell us what you thought of this unit, and how it can be improved.
