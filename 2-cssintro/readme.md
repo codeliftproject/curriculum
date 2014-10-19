@@ -1,9 +1,9 @@
 2: Introduction to CSS
 =========================
 
-[2.1: What is CSS?](#intro)
+[2.1: What is CSS?](#21-intro)
 
-[2.2: CSS Selectors](#selectors)
+[2.2: CSS Selectors](#22-selectors)
 
 [2.3: Connecting CSS to HTML](#connect)
 
@@ -13,19 +13,21 @@
 
 [2.6: Evaluation](#eval)
 
-<a id="intro">2.1: What is CSS?</a>
+<a id="21-intro">2.1: What is CSS?</a>
 ---------------------
 
 + **Read:** 2.1 - [What Is CSS?](https://docs.google.com/presentation/d/1UmVNXSSO0FxLJ6DC4fLp56OCwSzc4DIp3Q-ejfN9JHQ/edit?usp=sharing) (CodeLift)
++ **Exercise:** [CSS Basics](https://docs.google.com/document/d/1JgqYbczJ02v1g0UuU0UvpDICe_QuskctVcg2T-ARGeM/edit?usp=sharing) (CodeLift)
 + **Key Takeaway:** CSS allows us to add layout and design to web content. Every block of CSS code is a rule that includes a selector, property, and value. 
 
 
-<a id="selectors">2.2: CSS Selectors</a>
+<a id="22-selectors">2.2: CSS Selectors</a>
 -----------------------
 
 + **Read:** 2.2 - [CSS Selectors](https://docs.google.com/presentation/d/1EWfq-iPtlZqVwO216aBQxb-mGXZRyCNPHdZX3QlKP3c/edit?usp=sharing) (CodeLift)
++ **Exercise:** [Writing CSS Rules](https://docs.google.com/document/d/1a-vesHzBzcTi09pknUbOF58rDj_zCxKe-gfCcGUbJ2U/edit?usp=sharing) (CodeLift)
 + **Read:** [Getting to know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/) (learn.shayhowe.com) - *this chapter is long and includes a lot of extra information. Don’t worry about understanding it all; it will make more sense as you practice. Focus on: general understanding of the cascade and cascade properties, combining selectors, general understanding of hexadecimal colors*
-+ **Do:** Sign up for an account at [dash.ga.co](http://dash.ga.co), and complete Project 1: Build a Personal Website
++ **Do:** Sign up for an account at [dash.ga.co](http://dash.ga.co), and complete Lessons 1-3 of Project 1: Build a Personal Website
 + **Key Takeaway:** A CSS selector designates exactly which element(s) within our HTML we want to apply styles to. We can select an element by type, class attribute, or ID.
 
 <a id="connect">2.3: Connecting CSS to HTML</a>
