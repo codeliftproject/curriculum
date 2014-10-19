@@ -31,8 +31,8 @@
 + **Read:** 2.2 - [CSS Selectors](https://docs.google.com/presentation/d/1EWfq-iPtlZqVwO216aBQxb-mGXZRyCNPHdZX3QlKP3c/edit?usp=sharing) (CodeLift)
 + **Exercise:** [Writing CSS Rules](https://docs.google.com/document/d/1a-vesHzBzcTi09pknUbOF58rDj_zCxKe-gfCcGUbJ2U/edit?usp=sharing) (CodeLift)
 + **Read:** [Getting to know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/) (learn.shayhowe.com) - *this chapter is long and includes a lot of extra information. Don’t worry about understanding it all; it will make more sense as you practice. Focus on: general understanding of the cascade and cascade properties, combining selectors, general understanding of hexadecimal colors*
-+ **Exercise (Optional):** [Using Selectors](https://docs.google.com/document/d/1NNZFQqjOTkyY5fNM75uRyxJ06-kGMOwxOS8dPpheBzk/edit?usp=sharing) (CodeLift)
-+ **Exercise:** Sign up for an account at [dash.ga.co](http://dash.ga.co), and complete Lessons 1-3 of Project 1: Build a Personal Website
++ **Exercise:** [Using Selectors](https://docs.google.com/document/d/1NNZFQqjOTkyY5fNM75uRyxJ06-kGMOwxOS8dPpheBzk/edit?usp=sharing) (CodeLift)
++ **Exercise (Optional):** Sign up for an account at [dash.ga.co](http://dash.ga.co), and complete Lessons 1-3 of Project 1: Build a Personal Website
 + **Key Takeaway:** A CSS selector designates exactly which element(s) within our HTML we want to apply styles to. We can select an element by type, class attribute, or ID.
 
 <a id="23-connect">2.3: Connecting CSS to HTML</a>
