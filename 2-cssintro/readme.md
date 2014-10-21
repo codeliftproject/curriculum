@@ -7,15 +7,17 @@
 
 [2.3: Connecting CSS to HTML](#23-connect)
 
-2.4: The Box Model
+[2.4: Tools of the Trade: the Inspector](#24-tools)
 
-2.5: Layout and Positioning
+[2.5: The Box Model](#25-box)
 
-2.6: Responsive Design
+2.6: Layout and Positioning
 
-[2.7: Putting it all together](#project)
+2.7: Responsive Design
 
-[2.6: Evaluation](#eval)
+2.8: Putting It All Together
+
+[2.10: Evaluation](#210-eval)
 
 <a id="21-intro">2.1: What is CSS?</a>
 ---------------------
@@ -44,14 +46,25 @@
 + **Read:** [Learn to Code HTML & CSS - Building your first webpage](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (learn.shayhowe.com). *Note - this is a great review of everything we’ve covered so far including html & css. Read thoroughly and follow along with the exercises*
 + **Key Takeaway:** We can write inline, embedded, or external styles. Because they allow us to keep code separate, and to reuse code, external stylesheets are the preferred method for adding styles to a webpage. 
 
+<a id="24-tools">2.4: Tools of the Trade: The Inspector</a>
+-----------------------------
+
++ Exercise: [Edit the Google Homepage](https://docs.google.com/document/d/19aAZhXVEd8PhiCskDDd3qCxz30ZYF9r25aqTPVtpazY/edit?usp=sharing) (CodeLift)
++ Read: [Intro to Chrome Developer Tools - Elements](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements) (html5rocks)
++ **Key Takeaway:** We can use developer tools like the inspector to explore the code on a website, and to edit some elements on-the-fly. 
+
+<a id="25-box">2.5: The Box Model</a>
+-----------------------------
+
++ Exercise: [Explore the Box](https://docs.google.com/document/d/1-nE47KMHblpdi1ImZjGtfTUfRfmamq5p035ncvADnRg/edit?usp=sharing) (CodeLift)
++ Read: [2.5 - The Box Model](https://docs.google.com/presentation/d/1PwhRZuf6Jo6KUSZuGiT4SKx0Fj9uZOZAtLgCLWJSi28/edit?usp=sharing) (CodeLift)
++ Read: [Learn to Code HTML & CSS: Opening the Box MOdel](http://learn.shayhowe.com/html-css/opening-the-box-model/) (learn.shayhowe.com)
++ Exercise: [Fun with Boxes](https://docs.google.com/document/d/1rj2XTaAYQbukWzKfEPHDtkPWWcvTbya71YmB63II59k/edit?usp=sharing) (CodeLift)
++ **Key Takeaway:** Every element on a webpage is a rectangular box!
 
 
-<a id="project">2.5: Putting it all together</a>
+
+<a id="210-eval">2.10: Evaluation</a>
 ---------------------------------------
 
-+ **Do:** [2.5 - Putting it all together](https://docs.google.com/document/d/1RW9rhz1lsYUKodV96JKsICUIP-nK2Sugw00BrFqcLfg/edit?usp=sharing)
-
-<a id="eval">2.6: Evaluation</a>
----------------------------------------
-
-+ **Do:** Complete this survey and tell us what you thought of this unit, and how it can be improved. 
++ **Do:** Complete [this survey](https://docs.google.com/forms/d/1R6enRyko-VglHyP-roIz10AtwvRJBfpIwTrEPVY1MKg/viewform) and tell us what you thought of this unit, and how it can be improved. 
