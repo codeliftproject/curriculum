@@ -17,7 +17,7 @@
 
 2.8: Putting It All Together
 
-[2.10: Evaluation](#210-eval)
+[2.9: Evaluation](#210-eval)
 
 <a id="21-intro">2.1: What is CSS?</a>
 ---------------------
