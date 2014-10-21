@@ -33,14 +33,14 @@
 -----------------------------
 The first thing you see when viewing a page’s html, is the “doctype html” which tells you the version of html the page uses
 + Exercise: [Examine Your Webpage Structure](https://docs.google.com/document/d/14r4idi1fBmLy_mfHOpvY-sZ_F55JrdzIqZt4E3z2F8U/edit?usp=sharing) (CodeLift)
-+ Read: [Learn to Code HTML & CSS: HTML Document Structure](http://learn.shayhowe.com/html-css/building-your-first-web-page/#html-document-structure)
++ Read: [Learn to Code HTML & CSS: HTML Document Structure](http://learn.shayhowe.com/html-css/building-your-first-web-page/#html-document-structure) (learn.shayhowe.com)
 + **Key Takeaway:** The basic structure of an HTML document includes a declaration of its version, a head that contains invisible information, and the body, which contains visible information.
 
 <a id="14-elements-and-tags">1.4: Elements and Tags</a>
 -----------------------------
 
 + Read: [1.4 Elements & Tags](https://docs.google.com/presentation/d/1ZcMylHxPC81Pyowmp26udP6wLysYNUwztywuerNhyCs/edit?usp=sharing) (CodeLift)
-+ Read: [Learn to Code HTML & CSS: Common HTML Terms](http://learn.shayhowe.com/html-css/building-your-first-web-page/#common-html-terms)
++ Read: [Learn to Code HTML & CSS: Common HTML Terms](http://learn.shayhowe.com/html-css/building-your-first-web-page/#common-html-terms) (learn.shayhowe.com)
 + Exercise: [Research HTML Tags](https://docs.google.com/document/d/1o7j6mM18ixU0X_G_i8U37SskhXAa8T454g6oLHqgVb0/edit?usp=sharing) (CodeLift)
 + **Key Takeaway:** HTML elements are created using open tags, content, and closing tags - with or without attributes. Once you understand this syntax, you can research and use any HTML element.
 
@@ -49,7 +49,7 @@ The first thing you see when viewing a page’s html, is the “doctype html” 
 
 + Read: [1.5 Blocks & Inline Elements](https://docs.google.com/presentation/d/1frnnQyqDEWR0-igj9BImZl-khTKwt42Qwa6Wn7v5QLs/edit?usp=sharing) (CodeLift)
 + Exercise: [Block vs Inline](https://docs.google.com/document/d/1KUJ5KOjMtKaApj41CsKT-qePfv3JNDiAk0pDA55Qkro/edit?usp=sharing) (CodeLift)
-+ Read: [Learn to Code HTML & CSS: Identifying Divisions & Spans](http://learn.shayhowe.com/html-css/getting-to-know-html/#divs-and-spans)
++ Read: [Learn to Code HTML & CSS: Identifying Divisions & Spans](http://learn.shayhowe.com/html-css/getting-to-know-html/#divs-and-spans) (learn.shayhowe.com)
 + **Key Takeaway:** HTML elements can be block or inline by default. Block and inline elements present themselves differently in the browser.
 
 <a id="16-semantic-html">1.6: Semantic HTML</a>
