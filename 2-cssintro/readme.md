@@ -11,7 +11,7 @@
 
 [2.5: The Box Model](#25-box)
 
-2.6: Layout and Positioning
+[2.6: Layout and Positioning](#26-layout)
 
 2.7: Responsive Design
 
@@ -24,7 +24,7 @@
 
 + **Read:** 2.1 - [What Is CSS?](https://docs.google.com/presentation/d/1UmVNXSSO0FxLJ6DC4fLp56OCwSzc4DIp3Q-ejfN9JHQ/edit?usp=sharing) (CodeLift)
 + **Exercise:** [CSS Basics](https://docs.google.com/document/d/1JgqYbczJ02v1g0UuU0UvpDICe_QuskctVcg2T-ARGeM/edit?usp=sharing) (CodeLift)
-+ **Key Takeaway:** CSS allows us to add layout and design to web content. Every block of CSS code is a rule that includes a selector, property, and value. 
++ **Key Takeaway:** CSS allows us to add layout and design to web content. Every block of CSS code is a rule that includes a selector, property, and value.
 
 
 <a id="22-selectors">2.2: CSS Selectors</a>
@@ -40,18 +40,18 @@
 <a id="23-connect">2.3: Connecting CSS to HTML</a>
 -----------------------------
 
-+ **Read:** [2.3 - Connecting CSS to HTML](https://docs.google.com/presentation/d/1y_GgtmZXzYgzCvK6d8W9M-lVQHTNTlLRoeVTo7qZ5KY/edit?usp=sharing) (CodeLift) 
++ **Read:** [2.3 - Connecting CSS to HTML](https://docs.google.com/presentation/d/1y_GgtmZXzYgzCvK6d8W9M-lVQHTNTlLRoeVTo7qZ5KY/edit?usp=sharing) (CodeLift)
 + **Exercise:** [The Cascade](https://docs.google.com/document/d/1B9kDcb8sWqswjdsLEOrY8t_NxieNPSddudXf9SU9YIs/edit?usp=sharing) (CodeLift)
 + **Exercise:** [Style Your Resume](https://docs.google.com/document/d/1-S1xew4NjWkpUIPKLVhB6zzkXwh-lWLSujlny0LcpfM/edit?usp=sharing) (CodeLift)
 + **Read:** [Learn to Code HTML & CSS - Building your first webpage](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (learn.shayhowe.com). *Note - this is a great review of everything we’ve covered so far including html & css. Read thoroughly and follow along with the exercises*
-+ **Key Takeaway:** We can write inline, embedded, or external styles. Because they allow us to keep code separate, and to reuse code, external stylesheets are the preferred method for adding styles to a webpage. 
++ **Key Takeaway:** We can write inline, embedded, or external styles. Because they allow us to keep code separate, and to reuse code, external stylesheets are the preferred method for adding styles to a webpage.
 
 <a id="24-tools">2.4: Tools of the Trade: The Inspector</a>
 -----------------------------
 
 + Exercise: [Edit the Google Homepage](https://docs.google.com/document/d/19aAZhXVEd8PhiCskDDd3qCxz30ZYF9r25aqTPVtpazY/edit?usp=sharing) (CodeLift)
 + Read: [Intro to Chrome Developer Tools - Elements](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements) (html5rocks)
-+ **Key Takeaway:** We can use developer tools like the inspector to explore the code on a website, and to edit some elements on-the-fly. 
++ **Key Takeaway:** We can use developer tools like the inspector to explore the code on a website, and to edit some elements on-the-fly.
 
 <a id="25-box">2.5: The Box Model</a>
 -----------------------------
@@ -62,9 +62,16 @@
 + Exercise: [Fun with Boxes](https://docs.google.com/document/d/1rj2XTaAYQbukWzKfEPHDtkPWWcvTbya71YmB63II59k/edit?usp=sharing) (CodeLift)
 + **Key Takeaway:** Every element on a webpage is a rectangular box!
 
+<a id="26-layout">2.6: Layout and Positioning</a>
+-----------------------------
 
++ Read: [2.6 Layout & Positioning](https://docs.google.com/presentation/d/1glNoJ0GwwNQbXDEjB23jpSGuGGawBEM5SdidAM0Txh4/edit?usp=sharing) (CodeLift) (CodeLift)
++ Do: Work through all the pages of [this Learn Layout tutorial](http://learnlayout.com/index.html). Make sure you understand each of the properties that are presented, even if it means you have to try them out with some divs and boxes in a sample page of your own.
++ Exercise: [Learn to Float](https://docs.google.com/document/d/1lWCW-WYj4QAu5B-6fuqrkay7sNBadoiJvsgniMdwoz8/edit?usp=sharing)
++ Additional Resource: [Learn to Code HTML & CSS: Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/) (learn.shayhowe.com)
++ **Key Takeaway:** CSS can create visually appealing site layouts by positioning HTML elements on the page.
 
 <a id="210-eval">2.10: Evaluation</a>
 ---------------------------------------
 
-+ **Do:** Complete [this survey](https://docs.google.com/forms/d/1R6enRyko-VglHyP-roIz10AtwvRJBfpIwTrEPVY1MKg/viewform) and tell us what you thought of this unit, and how it can be improved. 
++ **Do:** Complete [this survey](https://docs.google.com/forms/d/1R6enRyko-VglHyP-roIz10AtwvRJBfpIwTrEPVY1MKg/viewform) and tell us what you thought of this unit, and how it can be improved.
