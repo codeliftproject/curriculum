@@ -15,7 +15,7 @@
 
 [2.7: Responsive Design](#27-responsive-design)
 
-[2.8: Putting It All Together](28-putting-it-all-together)
+[2.8: Putting It All Together](#28-putting-it-all-together)
 
 [2.9: Evaluation](#29-evaluation)
 
