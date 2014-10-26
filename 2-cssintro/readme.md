@@ -71,6 +71,17 @@
 + Additional Resource: [Learn to Code HTML & CSS: Positioning Content](http://learn.shayhowe.com/html-css/positioning-content/) (learn.shayhowe.com)
 + **Key Takeaway:** CSS can create visually appealing site layouts by positioning HTML elements on the page.
 
+<a id="27-responsive-design">2.7: Responsive Design</a>
+-----------------------------
++ Read: [Tech Term: Responsive Design](http://skillcrush.com/2012/05/08/responsive-design/) (Skillcrush)
++ Read: [Learn to Code Advanced HTMl & CSS: Responsive Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/) (learn.shayhowe.com)
++ Watch: [Responsive Web Design: Media Queries](https://www.youtube.com/watch?v=KX94fPaKqaU) (PHP Academy) - It’s a bit lengthy but incredibly helpful. Click the gear at the bottom right of the video screen change the speed to 1.25 or 1.5 to watch at a faster pace.
++ Additional Resources:
+  - [Responsive Web Design](http://alistapart.com/article/responsive-web-design) (Ethan Marcotte for *A List Apart*) - A detailed explanation of the different parts of responsive design
+  - [Flexible Math](http://responsv.com/flexible-math/) - A tool to find percentages for responsive layouts
+  - [Responsive Patterns & Resources](http://bradfrost.github.io/this-is-responsive/index.html) (Brad Frost)
++ **Key Takeaway:** Responsive design refers to accounting for different devices and screen sizes, often by using CSS to dictate the appearance, placement and/or sizes of various elements and fonts. When combined with adaptive design, it may also mean removing certain elements from the page entirely.
+
 <a id="29-evaluation">2.9: Evaluation</a>
 ---------------------------------------
 
