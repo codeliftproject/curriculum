@@ -73,6 +73,7 @@
 
 <a id="27-responsive-design">2.7: Responsive Design</a>
 -----------------------------
+
 + Read: [Tech Term: Responsive Design](http://skillcrush.com/2012/05/08/responsive-design/) (Skillcrush)
 + Read: [Learn to Code Advanced HTMl & CSS: Responsive Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/) (learn.shayhowe.com)
 + Watch: [Responsive Web Design: Media Queries](https://www.youtube.com/watch?v=KX94fPaKqaU) (PHP Academy) - It’s a bit lengthy but incredibly helpful. Click the gear at the bottom right of the video screen change the speed to 1.25 or 1.5 to watch at a faster pace.
@@ -81,6 +82,12 @@
   - [Flexible Math](http://responsv.com/flexible-math/) - A tool to find percentages for responsive layouts
   - [Responsive Patterns & Resources](http://bradfrost.github.io/this-is-responsive/index.html) (Brad Frost)
 + **Key Takeaway:** Responsive design refers to accounting for different devices and screen sizes, often by using CSS to dictate the appearance, placement and/or sizes of various elements and fonts. When combined with adaptive design, it may also mean removing certain elements from the page entirely.
+
+<a id="28-putting-it-all-together">2.8: Putting It All Together</a>
+-----------------------------
+
++ Exercise: [Mimic the Masters](https://docs.google.com/document/d/11lg1Bn-3ZqM8xkmxs6eL1RF2tc2U0i_gmhDb1ZOyBZ0/edit?usp=sharing)
++ **Key Takeaway:** You're a boss!
 
 <a id="29-evaluation">2.9: Evaluation</a>
 ---------------------------------------
