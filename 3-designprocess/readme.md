@@ -5,9 +5,9 @@
 
 [3.2: Wireframing](#32-wireframing)
 
-[3.3: Tools of the Trade: CSS Frameworks](#33-frameworks)
+[3.3: Tools of the Trade: CSS Frameworks](#33-tools-of-the-trade-css-frameworks)
 
-[2.4: Tools of the Trade: Domains & Web Hosting](#34-domains)
+[2.4: Tools of the Trade: Domains & Web Hosting](#34-tools-of-the-trade-domains-and-web-hosting)
 
 [3.5: Final Project](#35-final-project)
 
@@ -23,12 +23,12 @@
 
 + 
 
-<a id="33-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
+<a id="33-tools-of-the-trade-css-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
 -----------------------------
 
 + 
 
-<a id="34-domains">3.4: Tools of the Trade: Domains & Web Hosting</a>
+<a id="34-tools-of-the-trade-domains-and-web-hosting">3.4: Tools of the Trade: Domains and Web Hosting</a>
 -----------------------------
 
 + 
