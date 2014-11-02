@@ -29,11 +29,10 @@ Below is CodeLift's curriculum for an introductory front-end web development cla
 | 2.4 | Putting it all together  |
 | 2.5 | Tools of the Trade: Command Line Basics  |
 | 2.6 | Evaluation   |
-| **3**   | [**Tools of the Trade: Version Control**](https://github.com/codeliftproject/curriculum/tree/master/3-versioncontrol) |
-| 3.1 | What is Version Control, and why use it? |
-| 3.2 | What is Git, what is Github?|
-| 3.3 | Github setup    |
-| 3.4 | Push your code to Github!  |
-| 3.5 | Learner Self Eval & Reflection    |
-| **4**   | **Advanced CSS** |
-| **5**   | **Design process fundamentals** |
+| **3**   | [**Design Process**](https://github.com/codeliftproject/curriculum/tree/master/3-designprocess) |
+| 3.1 | Design Basics |
+| 3.2 | Wireframing|
+| 3.3 | Tools of the Trade: CSS Frameworks    |
+| 3.4 | Tools of the Trade: Domains & Web Hosting  |
+| 3.5 | Final Project    |
+| 3.6 | Evaluation   |
