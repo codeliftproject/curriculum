@@ -61,6 +61,7 @@
 + Activity: [Final Project](https://docs.google.com/document/d/1wn6twYeKJbfgeWd3y9MNyHgjXDo7KQv0cpIDdS03j1w/edit?usp=sharing) (CodeLift)
 + Additional Resources:
   - [Learn to Code Advanced HTML & CSS: Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/) (learn.shayhowe.com) -  Readable code is debuggable code! Learn how to keep your HTML & CSS well-organized in a standardized way before you start your final project.
+  - [Improving Code Readability With CSS Styleguides](http://www.smashingmagazine.com/2008/05/02/improving-code-readability-with-css-styleguides/)
   - [Neocities](https://neocities.org/) - A free and easy way to host your site!
 
 
