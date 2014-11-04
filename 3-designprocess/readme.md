@@ -1,9 +1,9 @@
 3: Design Process Fundamentals
 =========================
 
-[3.1: Design Basics](#31-design-basics)
+[3.1: Wireframing](#31-wireframing)
 
-[3.2: Wireframing](#32-wireframing)
+[3.2: Design Basics](#32-design-basics)
 
 [3.3: Tools of the Trade: CSS Frameworks](#33-tools-of-the-trade-css-frameworks)
 
@@ -13,15 +13,18 @@
 
 [3.6: Evaluation](#36-evaluation)
 
-<a id="31-design-basics">3.1: Design Basics</a>
----------------------
 
-
-
-<a id="32-wireframing">3.2: Wireframing</a>
+<a id="31-wireframing">3.1: Wireframing</a>
 -----------------------
 
-+ 
++ Read: [The 5 Steps of a Professional UX Design Process](http://skillcrush.com/2014/06/24/5-ux-design-deliverables/)  (Skillcrush)
++ Watch: [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks) (Evolve Creative Group)
++ Exercise: [Create Your Wireframes](https://docs.google.com/document/d/17w1Z94wZqDCXsI4dmzfP90nRn8s1XchfEqx7mBEj2uw/edit?usp=sharing)
++ **Key Takeaway**: Wireframes can help ease the design process by clarifying the structure and purpose of elements on your website long before code comes into play.
+
+<a id="32-design-basics">3.2: Design Basics</a>
+---------------------
+
 
 <a id="33-tools-of-the-trade-css-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
 -----------------------------
