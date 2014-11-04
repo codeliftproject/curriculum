@@ -28,9 +28,10 @@
 + Read:
   - [How to Create a Simple Brand Style Guide](http://99designs.com/customer-blog/create-simple-brand-style-guide/)
   - [How to Create a Style Guide for Your Blog](http://byregina.com/creating-a-style-guide-for-your-blog/)
+  - [Color Theory for Designers, Part 1: The Meaning of Color](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)
 + Exercise:
   - [Create Your Style Guide](https://docs.google.com/document/d/1VzfVkJgOoplvCjvhVR7AVWSWN51zjZQkCsRu_aaHJZY/edit?usp=sharing)
-  - [Case Study: Style Guides](https://docs.google.com/document/d/1FbE2PwjxNMhHN9F3McQAxsy2EZu-CmUuI54SHD6dd4g/edit?usp=sharing)
+  - [Case Study: Design Review](https://docs.google.com/document/d/1FbE2PwjxNMhHN9F3McQAxsy2EZu-CmUuI54SHD6dd4g/edit?usp=sharing)
 + Resources:
   - Colors - [Paletton.com](http://paletton.com/), [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/), [Colour Lovers](http://www.colourlovers.com/)
   - Fonts - [Google Fonts](http://www.google.com/fonts), [Da Font](http://www.dafont.com/), [Font Squirrel](http://www.fontsquirrel.com/), [1001 Fonts](http://www.1001fonts.com/)
