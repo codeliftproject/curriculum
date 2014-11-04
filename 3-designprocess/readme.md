@@ -20,11 +20,22 @@
 + Read: [The 5 Steps of a Professional UX Design Process](http://skillcrush.com/2014/06/24/5-ux-design-deliverables/)  (Skillcrush)
 + Watch: [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks) (Evolve Creative Group)
 + Exercise: [Create Your Wireframes](https://docs.google.com/document/d/17w1Z94wZqDCXsI4dmzfP90nRn8s1XchfEqx7mBEj2uw/edit?usp=sharing)
-+ **Key Takeaway**: Wireframes can help ease the design process by clarifying the structure and purpose of elements on your website long before code comes into play.
++ **Key Takeaway:** Wireframes can help ease the design process by clarifying the structure and purpose of elements on your website long before code comes into play.
 
 <a id="32-design-basics">3.2: Design Basics</a>
 ---------------------
 
++ Read:
+  - [How to Create a Simple Brand Style Guide](http://99designs.com/customer-blog/create-simple-brand-style-guide/)
+  - [How to Create a Style Guide for Your Blog](http://byregina.com/creating-a-style-guide-for-your-blog/)
++ Exercise:
+  - [Create Your Style Guide](https://docs.google.com/document/d/1VzfVkJgOoplvCjvhVR7AVWSWN51zjZQkCsRu_aaHJZY/edit?usp=sharing)
+  - [Case Study: Style Guides](https://docs.google.com/document/d/1FbE2PwjxNMhHN9F3McQAxsy2EZu-CmUuI54SHD6dd4g/edit?usp=sharing)
++ Resources:
+  - Colors - [Paletton.com](http://paletton.com/), [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/), [Colour Lovers](http://www.colourlovers.com/)
+  - Fonts - [Google Fonts](http://www.google.com/fonts), [Da Font](http://www.dafont.com/), [Font Squirrel](http://www.fontsquirrel.com/), [1001 Fonts](http://www.1001fonts.com/)
+  - Images - [The Noun Project](http://thenounproject.com/), [Flickr Creative Commons images](https://www.flickr.com/creativecommons/by-2.0/) (can be used with attribution)
++ **Key Takeaway:** Design isn’t easy, but it should be simple - especially at first. Sticking with two solid colors and two nice fonts can go a long way in making your site look cohesive and intentional.
 
 <a id="33-tools-of-the-trade-css-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
 -----------------------------
