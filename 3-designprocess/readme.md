@@ -34,6 +34,7 @@
 
 + Read: [Tech Terms - Domains](http://skillcrush.com/2012/05/14/domain/) (Skillcrush)
 + Read: [Web Hosting Introduction](http://skillcrush.com/2012/05/14/domain/) (w3schools)
++ Exercise: [Get Hosted](https://docs.google.com/document/d/18MyPNBt0Y9-OLMW1cOCtXUk9zmOUepr9Jg9A5KHmfS0/edit?usp=sharing) (CodeLift)
 
 <a id="35-final-project">3.5: Final Project</a>
 -----------------------------
