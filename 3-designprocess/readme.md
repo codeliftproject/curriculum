@@ -36,6 +36,10 @@
   - Colors - [Paletton.com](http://paletton.com/), [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/), [Colour Lovers](http://www.colourlovers.com/)
   - Fonts - [Google Fonts](http://www.google.com/fonts), [Da Font](http://www.dafont.com/), [Font Squirrel](http://www.fontsquirrel.com/), [1001 Fonts](http://www.1001fonts.com/)
   - Images - [The Noun Project](http://thenounproject.com/), [Flickr Creative Commons images](https://www.flickr.com/creativecommons/by-2.0/) (can be used with attribution)
++ Examples:
+  - [I Love NY Brand Style Guide](http://www.scribd.com/doc/8278452/I-Love-New-York-Brand-Guidelines-November-2008)
+  - [Yale](http://identity.yale.edu/)
+  - It goes without saying that the style guide of a smaller site / company / project will not need as many elements as a larger organization.
 + **Key Takeaway:** Design isn’t easy, but it should be simple - especially at first. Sticking with two solid colors and two nice fonts can go a long way in making your site look cohesive and intentional.
 
 <a id="33-tools-of-the-trade-css-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
