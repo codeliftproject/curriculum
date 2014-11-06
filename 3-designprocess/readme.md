@@ -39,7 +39,6 @@
 + Examples:
   - [I Love NY Brand Style Guide](http://www.scribd.com/doc/8278452/I-Love-New-York-Brand-Guidelines-November-2008)
   - [Yale](http://identity.yale.edu/)
-  - It goes without saying that the style guide of a smaller site / company / project will not need as many elements as a larger organization.
 + **Key Takeaway:** Design isn’t easy, but it should be simple - especially at first. Sticking with two solid colors and two nice fonts can go a long way in making your site look cohesive and intentional.
 
 <a id="33-tools-of-the-trade-css-frameworks">3.3: Tools of the Trade: CSS Frameworks</a>
